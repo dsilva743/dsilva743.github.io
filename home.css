@@ -2,10 +2,10 @@ body {
    background-color: #000000;
 }
  
-#header {
+h1 {
    color: white;
 }
 
-#para {
+p {
    color: white;
 }
