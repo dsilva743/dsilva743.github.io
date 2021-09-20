@@ -1,12 +1,3 @@
 
 body{ background-image: url(mybackground.jpg) }
 
-#container {
-  position: relative;
-}
-#container canvas, #overlay {
-  position: absolute;
-}
-canvas {
-  border: 1px solid black;
-}
