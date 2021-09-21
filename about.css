@@ -4,3 +4,5 @@ body{ background-image: url(mybackground.jpg) }
 #nav-table { width: 1024px }
 
 #background { width: 1024px }
+
+#background { background-color: white; width: 1024px; }
