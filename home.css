@@ -1,11 +1,7 @@
-body {
-   background-color: #000000;
-}
+body { background-color: #000000; }
  
-h1 {
-   color: white;
-}
+h1 { color: white; }
 
-p {
-   color: white;
-}
+p { color: white; }
+
+#nav-table { width: 1024px }
