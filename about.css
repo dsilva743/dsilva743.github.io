@@ -6,3 +6,5 @@ body{ background-image: url(mybackground.jpg) }
 #background { width: 1024px }
 
 #background { background-color: white; width: 1024px; }
+
+#selfie { float: left; }
