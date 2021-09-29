@@ -4,12 +4,12 @@ body { background-color: #000000; }
  
 h1 { color: white; 
      font-family: Copperplate;
-     font-size: 30;
+     font-size: 26px;
 }
 
 p { color: white;
     font-family: Arial;
-    font-size: 12;  
+    font-size: 12px;  
 }
 
 #nav-table { width: 1024px }
