@@ -1,8 +1,16 @@
 body { background-color: #000000; }
- 
-h1 { color: white; }
 
-p { color: white; }
+
+ 
+h1 { color: white; 
+     font-family: Arial;
+     font-size: 24;
+}
+
+p { color: white;
+    font-family: Arial;
+    font-size: 12;  
+}
 
 #nav-table { width: 1024px }
 
