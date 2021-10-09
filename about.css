@@ -1,14 +1,21 @@
-
-body{ background-image: url(mybackground.jpg) }
-
+html { background: url(mybackground.jpg) no-repeat center fixed;
+      background-size: cover; }
 
 h1 { font-family: Copperplate;
-     font-size: 45px;
-}
+     font-size: 45px; 
+     text-align: center; }
+
+p { color: black;
+    font-family: Arial, monospace;
+    font-size: 18px;
+    text-align: center; }
 
 #nav-table { width: 1024px }
-
-#background { width: 1024px }
-
-#background { background-color: white; width: 1024px; }
-
+#body-center { width: 1024px; }
+#background-center{      
+      background-color: aliceblue;
+      padding-top: auto;
+      padding-bottom: 50%;
+      padding-right: 140px;
+      padding-left: 15px;
+      border-radius: 15px; } 
