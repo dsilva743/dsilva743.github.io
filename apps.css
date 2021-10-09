@@ -1,9 +1,14 @@
+html { background-color: black }
 
-body { background-color: black; }
-
-h1 { color: white; 
+h1 { color: black; 
      font-family: Copperplate;
-     font-size: 45px;
-}
+     font-size: 45px; }
 
 #nav-table { width: 1024px; }
+#background-center{      
+     background: aliceblue;
+     padding-top: auto;
+     padding-bottom: 100%;
+     padding-right: 140px;
+     padding-left: 15px;
+     border-radius: 15px; } 
