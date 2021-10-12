@@ -13,12 +13,20 @@ p { color: black;
     font-size: 18px;
     text-align: center; }
 
+#dancing { float: left;}
+#racing { float: right; }
+#dancing2 { float: left; }
+#racing2 {float: right; }
+#decision-tree{float: left;}
+#mouseFollow{float: right;}
+    
+
 #nav-table { width: 1024px; }
 #body-para { width: 1024px; }
 #background-center{      
     background-color: aliceblue;
     padding-top: auto;
-    padding-bottom: 75%;
+    padding-bottom: 100%;
     padding-right: 140px;
     padding-left: 15px;
     border-radius: 15px; } 
