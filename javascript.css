@@ -17,8 +17,9 @@ p { color: black;
 #racing { float: right; }
 #dancing2 { float: left; }
 #racing2 {float: right; }
-#decision-tree{float: left;}
-#mouseFollow{float: right;}
+#decision-tree {float: left;}
+#mouseFollow {float: right;}
+#zoo {float: right;}
     
 
 #nav-table { width: 1024px; }
