@@ -19,7 +19,7 @@ p { color: black;
 #racing2 {float: right; }
 #decision-tree {float: left;}
 #mouseFollow {float: right;}
-#zoo {float: right;}
+#zoo {float: left;}
     
 
 #nav-table { width: 1024px; }
@@ -27,7 +27,7 @@ p { color: black;
 #background-center{      
     background-color: aliceblue;
     padding-top: auto;
-    padding-bottom: 100%;
+    padding-bottom: auto;
     padding-right: 140px;
     padding-left: 15px;
     border-radius: 15px; } 
