@@ -17,9 +17,9 @@ p { color: black;
 #racing { float: right; }
 #dancing2 { float: left; }
 #racing2 {float: right; }
-#decision-tree {float: left;}
-#mouseFollow {float: right;}
-#zoo {float: left;}
+#decision-tree{float: left;}
+#mouseFollow{float: right;}
+#tagGame{ float: left;}
     
 
 #nav-table { width: 1024px; }
@@ -27,7 +27,7 @@ p { color: black;
 #background-center{      
     background-color: aliceblue;
     padding-top: auto;
-    padding-bottom: 150%;
+    padding-bottom: 100%;
     padding-right: 140px;
     padding-left: 15px;
     border-radius: 15px; } 
