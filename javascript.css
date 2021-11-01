@@ -20,6 +20,7 @@ p { color: black;
 #decision-tree{float: left;}
 #mouseFollow{float: right;}
 #tagGame{ float: left;}
+#contactList{float: right;}
     
 
 #nav-table { width: 1024px; }
@@ -27,7 +28,7 @@ p { color: black;
 #background-center{      
     background-color: aliceblue;
     padding-top: auto;
-    padding-bottom: 200%;
+    padding-bottom: 100%;
     padding-right: 140px;
     padding-left: 15px;
     border-radius: 15px; } 
