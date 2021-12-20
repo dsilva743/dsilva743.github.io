@@ -4,7 +4,13 @@ h1 { color: black;
      font-family: Copperplate;
      font-size: 45px; }
 
+p { color: black;
+    font-family: Arial, monospace;
+    font-size: 18px; 
+    text-align: center; }
+
 #nav-table { width: 1024px; }
+#body-para { width: 1024px }
 #background-center{      
      background: aliceblue;
      padding-top: auto;
