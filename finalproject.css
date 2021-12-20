@@ -4,6 +4,9 @@ h1 { color: black;
      font-family: Copperplate;
      font-size: 45px; }
 
+h3{ border: solid;
+    border-color: black;}
+
 p { color: black;
     font-family: Arial, monospace;
     font-size: 18px; 
